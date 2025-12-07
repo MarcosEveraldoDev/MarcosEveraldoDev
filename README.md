@@ -8,6 +8,8 @@
 
 ![Marcos Everaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=dracula)
 
+![GitHub Stats](https://githubstats.com.br/api/stats?username=MarcosEveraldoDev&theme=dark&showBorder=true&language=pt&type=stats)
+
 ### Tecnologias 
 
 <div style="display : inline-block"><br>
