@@ -57,11 +57,6 @@ Confira meus repositórios para acompanhar minha evolução, estudos e projetos 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
 </div>
 
-<!-- Optional: streaks -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEveraldoDev&theme=radical" />
-</div>
-
 ---
 
 
@@ -127,10 +122,3 @@ Check out my repositories to follow my learning journey and explore front-end pr
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
 </div>
-
-<!-- Optional: streaks -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEveraldoDev&theme=radical" />
-</div>
-
----
