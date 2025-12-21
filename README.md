@@ -132,3 +132,5 @@ Check out my repositories to follow my learning journey and explore front-end pr
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEveraldoDev&theme=radical" />
 </div>
+
+---
