@@ -47,6 +47,21 @@ Atuar como **Desenvolvedor Front-end**, contribuindo para projetos que valorizem
 
 Confira meus repositórios para acompanhar minha evolução, estudos e projetos práticos desenvolvidos com foco em Front-end.
 
+
+### 📊 GitHub Status & Highlights
+
+<!-- GitHub stats generated via https://github.com/anuraghazra/github-readme-stats -->
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
+</div>
+
+<!-- Optional: streaks -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEveraldoDev&theme=radical" />
+</div>
+
 ---
 
 
@@ -103,3 +118,17 @@ To work as a **Front-end Developer**, contributing to impactful projects that va
 Check out my repositories to follow my learning journey and explore front-end projects built with modern web technologies.
 
 ---
+
+### 📊 GitHub Stats & Highlights
+
+<!-- GitHub stats generated via https://github.com/anuraghazra/github-readme-stats -->
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
+</div>
+
+<!-- Optional: streaks -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEveraldoDev&theme=radical" />
+</div>
