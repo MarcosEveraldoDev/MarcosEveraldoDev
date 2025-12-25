@@ -53,14 +53,10 @@ Confira meus repositórios para acompanhar minha evolução, estudos e projetos 
 <!-- GitHub stats generated via https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
 </div>
 
 ---
-
-
-
 
 ## 👋 Hi, I'm Marcos Everaldo
 
@@ -119,6 +115,6 @@ Check out my repositories to follow my learning journey and explore front-end pr
 <!-- GitHub stats generated via https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEveraldoDev&show_icons=true&theme=radical" />
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEveraldoDev&layout=compact&theme=radical" />
 </div>
